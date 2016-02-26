@@ -27,6 +27,7 @@ module.exports = {
     "jsx-quotes": [2, "prefer-double"],
     "comma-dangle": [1, "only-multiline"],
     "indent": [2, 2, {"SwitchCase": 1}],
+    "no-var": 2,
     "no-unused-vars": [
       2,
       {

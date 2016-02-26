@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-prometheusresearch",
+  "version": "0.1.0",
+  "description": "ESLint configuration preset for Prometheus Research projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prometheusresearch/eslint-config-prometheusresearch.git"
+  },
+  "keywords": [
+    "eslint-config",
+    "eslintconfig"
+  ],
+  "author": "Prometheus Research, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prometheusresearch/eslint-config-prometheusresearch/issues"
+  },
+  "homepage": "https://github.com/prometheusresearch/eslint-config-prometheusresearch#readme",
+  "dependencies": {
+    "babel-eslint": "^4.1.8",
+    "eslint-plugin-react": "^3.16.1"
+  }
+}

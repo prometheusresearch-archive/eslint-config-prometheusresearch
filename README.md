@@ -10,10 +10,10 @@ ESLint configuration preset for Prometheus Research projects.
 
 Add the following lines to your `package.json`:
 
-  ...
-  "eslintConfig": {
-    "extends": "prometheusresearch"
-  },
-  ...
+    ...
+    "eslintConfig": {
+      "extends": "prometheusresearch"
+    },
+    ...
 
 Then run `./node_modules/.bin/eslint <source directory>`.

@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-prometheusresearch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint configuration preset for Prometheus Research projects",
   "main": "index.js",
   "scripts": {

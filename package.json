@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/prometheusresearch/eslint-config-prometheusresearch#readme",
   "dependencies": {
-    "babel-eslint": "^4.1.8",
-    "eslint-plugin-react": "^3.16.1"
+    "babel-eslint": "^6.0.0-beta.6",
+    "eslint-plugin-react": "^4.2.3"
   }
 }

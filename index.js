@@ -16,7 +16,8 @@ module.exports = {
   "parser": require.resolve("babel-eslint"),
   "extends": "eslint:recommended",
   "plugins": [
-    "react"
+    "react",
+    "flowtype"
   ],
   "rules": {
     "react/jsx-uses-vars": 2,
@@ -24,6 +25,10 @@ module.exports = {
     "react/jsx-uses-react": 2,
     "react/react-in-jsx-scope": 2,
     "react/self-closing-comp": 2,
+
+    "flowtype/use-flow-type": 2,
+    "flowtype/define-flow-type": 2,
+
     "jsx-quotes": [2, "prefer-double"],
     "comma-dangle": [1, "only-multiline"],
     "indent": [2, 2, {"SwitchCase": 1}],
